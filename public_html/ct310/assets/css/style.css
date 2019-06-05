@@ -1,0 +1,77 @@
+body {
+  padding-top: 5rem;
+}
+.infocontainer {
+  text-align: center;
+  padding: 2.5rem 9rem;
+  vertical-align: top;
+}
+
+#infot {
+text-align: center;
+}
+
+.footer {
+position: fixed;
+bottom: 0px;
+left: 0px;
+height: 30px;
+width: 100%;
+color: white;
+padding: 1px;
+background: #999;
+text-align:center;
+}
+a:link {
+	color: green;
+}
+
+img:hover {
+    box-shadow: 0 1px 1px 1px rgba(0, 120, 170, 0.5);
+}
+
+#twine {
+position:relative;
+padding: auto;
+border: 2px radius #ddd;
+border-radius: 2px;
+width: 70%;
+height: 70%%;
+float: center;
+}
+
+#tinput {
+display: inline-block;
+text-align: center;
+padding: 1rem 1rem;
+float: center;
+bottom: 0;
+}
+#but{
+bottom: 0;
+float: center;
+}
+textarea {
+width :80%;
+}
+
+#lion {
+position:relative;
+padding: auto;
+border: 2px radius #ddd;
+border-radius: 2px;
+width: 70%;
+height: 70%;
+float: center;
+}
+
+
+#eden  {
+position:relative;
+padding: 1rem;
+border: 2px radius #ddd;
+border-radius: 2px;
+width: 70%;
+height: 70%;
+float: center;
+
